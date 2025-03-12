@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+.cabecalho{
+    background-color: #f584c9;
+    width: 100%;
+}
+.topicos{
+    color: #101110;
+    font-size: 24px;
+}
+.titulo{
+    color: #0c0e0d;
+    font-size: 32px;
+    font-family: Dancing Script;
+}
