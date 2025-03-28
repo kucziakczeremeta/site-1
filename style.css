@@ -30,7 +30,6 @@
     font-size: 18px;
     color:#0c0e0d;
 }
-.primeira-linha{
-    display: grid;
-    grid-column: 30%,30%,30%;
+.foto{
+    width: 30% 30% 30%;
 }
