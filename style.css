@@ -62,3 +62,12 @@
 .bota.topicos{
     text-decoration: none;
 }
+.botao-link{
+    text-decoration: none;
+    display: flex;
+    color: #f584c9;
+    font-size: 24px;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: #0c0e0d;
+}
