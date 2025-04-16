@@ -7,20 +7,22 @@
 .botao{
     color: #101110;
     font-size: 24px;
+    text-decoration: none;
 }
 .titulo{
     color: #0c0e0d;
     font-size: 32px;
     font-family: Dancing Script;
     text-align: center;
+    padding-top: 3em;
 }
+    .h2{
+        font-family: Emblema One;
+        font-size: 28px;
+        color: #0c0e0d;
+    }
 .texto{
     background-color: #ffffff;
-}
-.h2{
-    font-family:Embed code;
-    font-size: 24px;
-    color: #0c0e0d;
 }
 .texto-inicial{
     font-size: 24px;
