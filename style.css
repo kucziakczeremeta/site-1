@@ -70,9 +70,9 @@
 .botao-link{
     text-decoration: none;
     display: flex;
-    color: #f584c9;
+    color: #000000;
     font-size: 24px;
     padding-left: 2em;
     padding-right: 2em;
-    background-color: #ff84de;
+    background-color: #ff88e5;
 }
