@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 :root{
-    background-color: #f584c9;
+    background-color: #ffbde6;
 }
 .cabecalho{
     width: 100%;
-    background-color: #f584c9;
+    background-color: #ffbde6;
 }
 .botao{
-    color: #eb6fc8;
+    color: #ffbde6;
     font-size: 24px;
     text-decoration: none;
 }
@@ -24,7 +24,7 @@
         color: #0c0e0d;
     }
 .texto{
-    background-color: #ffffff;
+    background-color:#ffbde6;
 }
 .texto-inicial{
     font-size: 24px;
